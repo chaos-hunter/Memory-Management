@@ -1,5 +1,3 @@
-CIS3110/Operating Systems:Assignment 1
--All parts of the assignment are complete
 Experiments performed for this assignemt were using two different set of test inputs
 running in 4096(0x1000) bytes of memory
 1st test input using only allocations
